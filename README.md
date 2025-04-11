@@ -103,4 +103,16 @@ Sebaliknya, model Deep Learning yang diuji seperti **CNN** hanya mencapai akuras
 👉 [Klasifikasi DNA dengan SVM][(https://github.com/wheldnz/svm-dna-diabetes-classification)](https://github.com/wheldnz/Klasifikasi-Diabetes-Berdasarkan-Sekuens-DNA-Manusia)
 
 
+## 👤 Kontributor
 
+**Nama:** _M. Wildan Nuril Akmal 
+
+**Minat:** Data Science, Deep Learning bioinformatika  
+
+
+## 📬 Kontak
+
+Ingin berdiskusi lebih lanjut atau membutuhkan file csv nya?
+
+- 📧 Email: [wildanuril99@email.com]  
+- 💼 LinkedIn: [www.linkedin.com/in/wildan-nuril]
