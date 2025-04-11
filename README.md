@@ -40,7 +40,7 @@ Proses preprocessing dilakukan untuk memastikan kualitas dan representasi data t
 Visualisasi kata (k-mers) yang paling sering muncul dilakukan menggunakan **Wordcloud**.
 
 <p align="center">
-  <img src="images/wordcloud_dna.png" width="500"/>
+  <img src="images/WordCloud_DNA.png" width="500"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@ Visualisasi kata (k-mers) yang paling sering muncul dilakukan menggunakan **Word
 - Grafik evaluasi menunjukkan **train loss dan validation loss selaras**, menandakan **tidak overfitting**.
 
 <p align="center">
-  <img src="images/evaluation_plot.png" width="500"/>
+  <img src="images/Evaluation.png" width="500"/>
 </p>
 
 ---
@@ -79,6 +79,10 @@ Visualisasi kata (k-mers) yang paling sering muncul dilakukan menggunakan **Word
 Meskipun pendekatan Deep Learning semakin populer, hasil eksperimen menunjukkan bahwa model **Support Vector Machine (SVM)** dengan representasi **4-mers** dan kernel **RBF (C = 10)** mampu memberikan **akurasi tertinggi sebesar 96%**.
 
 Sebaliknya, model Deep Learning yang diuji seperti **CNN** hanya mencapai akurasi maksimal sekitar **84%**.
+
+<p align="center">
+  <img src="images/Akurasi terbaik.png" width="500"/>
+</p>
 
 ---
 
